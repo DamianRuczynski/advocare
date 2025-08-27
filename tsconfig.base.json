@@ -15,8 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@advocare/api-types": ["api-types/src/index.ts"],
-      "@advocare/shared-utils": ["shared-utils/src/index.ts"]
+      "@advocare/api-types": ["libs/api-types/src/index.ts"],
+      "@advocare/shared-utils": ["libs/shared-utils/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
