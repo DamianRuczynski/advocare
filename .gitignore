@@ -4,6 +4,7 @@
 dist
 tmp
 out-tsc
+coverage
 
 # dependencies
 node_modules
@@ -42,3 +43,13 @@ Thumbs.db
 .nx/workspace-data
 .cursor/rules/nx-rules.mdc
 .github/instructions/nx.instructions.md
+.npmrc
+.env*
+**/__pycache__/
+apps/ai-service/.venv
+
+
+.angular
+
+vite.config.*.timestamp*
+vitest.config.*.timestamp*
