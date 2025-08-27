@@ -10,6 +10,7 @@
 pnpm install
 pnpm nx serve api-gateway
 pnpm nx serve web
+pnpm nx run ai-service:serve
 
 ## struktura
 
